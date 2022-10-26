@@ -1,0 +1,6 @@
+---no previous navigation attemps details if we go from test page to other
+--- having access to navigate from test page to other pages by using browser back button
+--- can use browser back and forward buttons to log in
+--- If user gave his credentials to many users user doesn't even know who logged in
+--- lack of authentication validations
+--- Cant login because of the existance of previous session (TCS Next)
